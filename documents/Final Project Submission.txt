@@ -1,0 +1,15 @@
+Final Project Submission
+
+Posted on: Tuesday, November 27, 2018 3:26:24 PM CST
+
+The links for submitting the final project are now available.   
+Below are the instructions:   
+
+1. There is a   Turnitin assignment  link for submitting your   project report. Please submit only   one report per team in PDF format. The system will check for plagiarism from various sources, such as websites, papers, students from other sections, and previous years' submissions.   Please do not include any source code in your project report.  You should include summary of your results in form of tables, graphs, plots, etc. Also, be sure to include analysis of your results and experiments.  
+2. There is another   Turnitin assignment  link for submitting all your   source code in plain text format.  You can simply copy and paste all your code into one text file and upload it there. The system will check your source code for plagiarism. Note that you will not be penalized for including standard boilerplate code, such as import statements or Spark libraries. There will be penalty only if you copy large blocks of code from online or other sources.  
+3. There is a third link for submitting   your source code in native format  e.g. Java project, Python code, R code, etc.   Submit your code and a README file  indicating how to build and run your code, and what parameters to input. The TA will use this to test your program.  
+4. The final deadline for project submission is   Friday Nov 30 midnight. You can use maximum of 2 free days (similar to assignments) but there will be no extensions allowed. The assignment link will close on Sunday Dec 2 midnight.  
+
+5. During the first week of December, you will need to present a short (max of 5 mins) demo of your project in front of the TA. He will send you a link to sign up for presentation times. All team members need to be present for the demo.   
+
+Please let us know if you have any questions.
